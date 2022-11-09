@@ -1,0 +1,18 @@
+Electrical Wiring;Housing;1.00;12/20/2022;
+Bagel;Food;10.99;01/02/2022;
+Phone Bill;Utilities;125.00;01/21/2022;
+Dental;Insurance;50.00;01/21/2022;
+Carpeting;Housing;25.25;01/09/2022;
+Wooden Floors;Housing;3.99;02/09/2022;
+Medicine;Medical;1000.23;11/02/2022;
+Medicine;Medical;539.32;12/09/2022;
+Video game;Personal;59.99;05/07/2022;
+Guitar Cable;Personal;23.99;01/21/2022;
+Deck of Cards;Personal;8.99;03/22/2022;
+Gas;Transportation;49.99;04/25/2022;
+Eggs;Food;5.00;09/01/2022;
+Dental;Insurance;100.00;05/27/2022;
+Medicine;Medical;2.00;6/20/2022;
+Service Fee;Personal;0.99;07/24/2022;
+Drywall;Housing;873.29;08/10/2022;
+Gas;Transportation;24.00;01/23/2022;
